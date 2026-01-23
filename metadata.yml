@@ -1,5 +1,5 @@
 homepage: "https://vwo.com"
 
 versions:
-  - sha: 7d373c1b0805dce307a623a360581373cd2c95ff
+  - sha: 232be581a50ed11eb4037a93271e21b06e99a758
     changeNotes: Initial release.
