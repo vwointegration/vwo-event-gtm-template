@@ -61,7 +61,7 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "CHECKBOX",
     "name": "smartCodeEnabled",
-    "checkboxText": "Send Events for Feature Experiments or Offline Conversions",
+    "checkboxText": "Send Events for Feature Experimentation using Offline Conversions",
     "simpleValueType": true,
     "defaultValue": false,
     "subParams": [

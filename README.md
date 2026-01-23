@@ -5,7 +5,7 @@ The **VWO Event** template is a custom Google Tag Manager tag that enables you t
 **Features:**
 - Send any GTM event and its properties to VWO  
 - Add multiple custom properties per event  
-- Option to send events for Feature Experiments or Offline Conversions  
+- Option to send events for Feature Experimentation using Offline Conversions  
 
 ## Requirements
 
